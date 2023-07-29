@@ -1,0 +1,13 @@
+.about {
+    margin: 0 auto;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    background-color: peachpuff;
+    margin-top: 30px;
+    height: 1000cm;
+    font-size: 25px;
+    font-weight: 100;
+    font-family: 'Times New Roman', Times, serif;
+}
